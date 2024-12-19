@@ -1,0 +1,5 @@
+original_file.txt
+3
+new_file_1.txt
+new_file_2.txt
+new_file_3.txt
